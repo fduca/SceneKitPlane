@@ -1,2 +1,2 @@
 # SceneKitPlane
-SceneKit experiment 1 for flying plane
+SceneKit experiment one  for flying plane
